@@ -1,7 +1,28 @@
 img{
 	width:100%;
-	height:100%;
+	height:122%;
 }
+
 .a{
-	background:#575757;
+	position:absolute;
+	color:#df0000;
+	margin-left:70%;
+	margin-top:22%;
+}
+.podval{
+    left: 0; bottom: 0; /* Левый нижний угол */
+    padding: 6%; /* Поля вокруг текста */
+    background: #2f2f2f; /* Цвет фона */
+    width: 88%; /* Ширина слоя */
+}
+.tre{
+	float:left;
+	margin-left:8%;
+	margin-bottom:3%;
+}
+.q{
+	color:#aa0000;
+}
+body{
+	background:#2f2f2f;
 }
