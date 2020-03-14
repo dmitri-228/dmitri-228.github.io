@@ -2,10 +2,9 @@ img{
 	width:100%;
 	height:122%;
 }
-
 .a{
 	position:absolute;
-	color:#df0000;
+	color:#ef0000;
 	margin-left:70%;
 	margin-top:22%;
 }
@@ -21,7 +20,12 @@ img{
 	margin-bottom:3%;
 }
 .q{
-	color:#aa0000;
+	color:#990000;
+	transition:0.35s;
+}
+.q:hover{
+	color:#ff0000;
+	transition:0.35s;
 }
 body{
 	background:#2f2f2f;
